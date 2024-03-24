@@ -4,7 +4,7 @@ body {
     font-family: 'Arial', sans-serif; /* Setting the font family for the body */
     margin: 0;
     padding: 0;
-    background-color: #539ee8; /* Setting the background color for the body */
+    background-color: #02173b; /* Setting the background color for the body */
 }
 
 header {
@@ -23,12 +23,13 @@ header {
 }
 
 .chart-container {
+    height: 500px;
     width: 400px; /* Setting width for the chart container */
     margin: 20px; /* Adding margin around the chart container */
     padding: 20px; /* Adding padding inside the chart container */
     border-radius: 10px; /* Adding border radius to create rounded corners */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adding box shadow for a subtle effect */
-    background-color: #ffffff; /* Setting background color for the chart container */
+    box-shadow:4px 6px rgba(0, 0, 0, 0.1); /* Adding box shadow for a subtle effect */
+    background-color: #b3cbf4; /* Setting background color for the chart container */
     text-align: center; /* Aligning text in the center of the chart container */
 }
 
